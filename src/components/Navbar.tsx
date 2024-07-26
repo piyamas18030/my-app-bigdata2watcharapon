@@ -26,10 +26,10 @@ export default function Navbar() {
                 <a href="/ai">AI ตรวจวินิจฉัยโรค</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="#">การจัดลำดับในกลุ่มประเทศ ai</a>
+                <a href="aecranking">AEC Ranking</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="#">การประเมินยุทธุศาสตร์ชาติ</a>
+                <a href="evaluation">การประเมินยุทธุศาสตร์ชาติ</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="#">ติดต่อ</a>

@@ -21,7 +21,7 @@ export default function About() {
                 <img
                   alt="team"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-                  src="images/P1.jpg"
+                  src="images/p11.jpg"
                 />
                 <div className="flex-grow sm:pl-8">
                   <h2 className="title-font font-medium text-lg text-gray-900">
@@ -78,7 +78,7 @@ export default function About() {
                 <img
                   alt="team"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-                  src="images/P2.jpg"
+                  src="images/p22.jpg"
                 />
                 <div className="flex-grow sm:pl-8">
                   <h2 className="title-font font-medium text-lg text-gray-900">
@@ -138,7 +138,7 @@ export default function About() {
                 <img
                   alt="team"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-                  src="images/P3.jpg"
+                  src="images/P33333.jpg"
                 />
                 <div className="flex-grow sm:pl-8">
                   <h2 className="title-font font-medium text-lg text-gray-900">
@@ -198,7 +198,7 @@ export default function About() {
                 <img
                   alt="team"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-                  src="images/P4.jpg"
+                  src="images/P44.jpg"
                 />
                 <div className="flex-grow sm:pl-8">
                   <h2 className="title-font font-medium text-lg text-gray-900">
