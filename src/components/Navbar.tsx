@@ -26,10 +26,10 @@ export default function Navbar() {
                 <a href="/ai">AI ตรวจวินิจฉัยโรค</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="aecranking">AEC Ranking</a>
+                <a href="/aecranking">AEC Ranking</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="evaluation">การประเมินยุทธุศาสตร์ชาติ</a>
+                <a href="/productlist">การประเมินยุทธุศาสตร์ชาติ</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="#">ติดต่อ</a>
@@ -81,7 +81,7 @@ export default function Navbar() {
         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
       ></script>
       <script
-        nomodule
+        
         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
       ></script>
     </div>
