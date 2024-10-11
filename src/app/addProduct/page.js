@@ -55,14 +55,14 @@ export default function AddProduct() {
           placeholder="Product Name"
         />
 
-        {/* <input
+        <input
           onChange={(e) => setImage(e.target.value)}
           value={image}
           className="input input-bordered input-accent w-full max-w-xs"
           type="text"
           placeholder="/images/1.jpg"
           defaultValue="/images/1.jpg"
-        /> */}
+        />
         <input
           onChange={(e) => setPrice(e.target.value)}
           value={price}
